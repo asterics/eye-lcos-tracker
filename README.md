@@ -87,3 +87,19 @@ TODO: Add eye tracking algorithms using Active Appearance Models
 * [Automatic facial expression analysis](publications/Automatic_facial_expression_analysis.pdf)
 * [TAUPE: Visualizing and analyzing eye-tracking data](https://www.researchgate.net/publication/259118316_TAUPE_Visualizing_and_analyzing_eye-tracking_data)
 * [Papers with code](https://paperswithcode.com/methods)
+
+### Human Computer Interaction
+
+Quantitative evaluation and comparison of the efficiency of input devices can be done using Fitt's law and comforming to the ISO 9241-9. The **throughput metric** is a good metric for the comparison of input devices.
+
+Further resources:
+* [Web page of Scott MacKenzie](http://www.yorku.ca/mack/) with many HCI publications about Fitt's law and input device validation.
+* The [tool GoFitts](http://www.yorku.ca/mack/FittsLawSoftware/) can be used to perform input device validation experiments including statistical analyzes. Simply download and start GoFitts.jar.
+* [Other Software for Validation Experiments](http://www.yorku.ca/mack/ExperimentSoftware/)
+
+#### Interesting papers
+
+* [A Fitts’ Law Evaluation of Hands-Freeand Hands-On Input on a Laptop Computer](http://www.yorku.ca/mack/hcii2019.pdf)
+* [Pointing by Gaze, Head, and Foot in a Head-Mounted Display](http://www.yorku.ca/mack/etra2019a.pdf)
+* [TAGSwipe: Touch Assisted Gaze Swipe for Text Entry](http://www.yorku.ca/mack/chi2020a.html)
+* [Comparison of Two Methods to Control the Mouse Using a Keypad](http://www.yorku.ca/mack/icchp2016b.pdf)

@@ -90,7 +90,7 @@ TODO: Add eye tracking algorithms using Active Appearance Models
 
 ### Human Computer Interaction
 
-Quantitative evaluation and comparison of the efficiency of input devices can be done using Fitt's law and comforming to the ISO 9241-9. The **throughput metric** is a good metric for the comparison of input devices.
+Quantitative evaluation and comparison of the efficiency of input devices can be done using Fitt's law and comforming to the ISO 9241-9. The **throughput metric** is a good metric for the comparison of input devices. See the publication [FittsFace: Exploring Navigation and Selection Methods for Facial Tracking](http://www.yorku.ca/mack/hcii2017.html) as an example.
 
 Further resources:
 * [Web page of Scott MacKenzie](http://www.yorku.ca/mack/) with many HCI publications about Fitt's law and input device validation.

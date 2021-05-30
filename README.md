@@ -93,7 +93,7 @@ TODO: Add eye tracking algorithms using Active Appearance Models
 * [Rendering of Eyes for Eye-Shape Registration and Gaze Estimation](https://arxiv.org/pdf/1505.05916.pdf): Data augmentation by eye gaze synthesizing.
 * [Automatic facial expression analysis](publications/Automatic_facial_expression_analysis.pdf)
 * [TAUPE: Visualizing and analyzing eye-tracking data](https://www.researchgate.net/publication/259118316_TAUPE_Visualizing_and_analyzing_eye-tracking_data)
-* [Papers with code](https://paperswithcode.com/methods)
+* [Papers with code](https://paperswithcode.com/methods) e.g. [fast MSER algorithm](https://paperswithcode.com/paper/fast-mser)
 
 ### Human Computer Interaction
 

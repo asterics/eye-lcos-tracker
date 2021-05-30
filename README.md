@@ -13,8 +13,15 @@ The eye tracker should fulfill the following requirements:
 * **Tracking quality**: 
     * A tracking accuracy of up to 3°? is aimed for. The lower the better.
     * Good tracking results should be achieved with and without eye glasses
-    * FPS?: 30-60?
+    * Good stability against head movmeents and head orientation (-> high FOV, probably 2 cameras)
+    * FPS: not critical, 60-100Hz desired
  
+
+## Eye-Tracking Essentials
+
+Soe importnat term like bright/dark pupil center corneal reflection techniques, 3D-eye model calibration, timing/accuracy/precision are explained here:
+
+* [Eye Tracking essentials overview by Tobii](https://www.tobiipro.com/learn-and-support/learn/eye-tracking-essentials/)
 
 ## Hardware
 

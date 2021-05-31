@@ -87,9 +87,9 @@ TODO: Add eye tracking algorithms using Active Appearance Models
 
 ## Interesting Papers
 
-* [RemoteEye: an open source high speed remote eyetracker](publications/hospBRM2020RemoteEye.pdf)
-* [Towards accurate eye tracker calibration – methods and procedures](publications/Towards_Accurate_Eye_Tracker_Calibration_-_Methods.pdf)
-* [Guidelines for the eye tracker calibration using points of regard](publications/ITIB.pdf)
+* [RemoteEye: an open source high speed remote eyetracker](https://www.hci.uni-tuebingen.de/assets/pdf/publications/hospBRM2020RemoteEye.pdf)
+* [Towards accurate eye tracker calibration – methods and procedures](https://www.researchgate.net/publication/275541615_Towards_Accurate_Eye_Tracker_Calibration_-_Methods_and_Procedures)
+* [Guidelines for the eye tracker calibration using points of regard](https://www.researchgate.net/publication/262932778_Guidelines_for_eye_tracker_calibration_using_points_of_regard)
 * [Rendering of Eyes for Eye-Shape Registration and Gaze Estimation](https://arxiv.org/pdf/1505.05916.pdf): Data augmentation by eye gaze synthesizing.
 * [Automatic facial expression analysis](publications/Automatic_facial_expression_analysis.pdf)
 * [TAUPE: Visualizing and analyzing eye-tracking data](https://www.researchgate.net/publication/259118316_TAUPE_Visualizing_and_analyzing_eye-tracking_data)

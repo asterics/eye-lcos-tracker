@@ -91,7 +91,7 @@ TODO: Add eye tracking algorithms using Active Appearance Models
 * [Towards accurate eye tracker calibration – methods and procedures](https://www.researchgate.net/publication/275541615_Towards_Accurate_Eye_Tracker_Calibration_-_Methods_and_Procedures)
 * [Guidelines for the eye tracker calibration using points of regard](https://www.researchgate.net/publication/262932778_Guidelines_for_eye_tracker_calibration_using_points_of_regard)
 * [Rendering of Eyes for Eye-Shape Registration and Gaze Estimation](https://arxiv.org/pdf/1505.05916.pdf): Data augmentation by eye gaze synthesizing.
-* [Automatic facial expression analysis](publications/Automatic_facial_expression_analysis.pdf)
+* [Automatic facial expression analysis](https://www.repository.cam.ac.uk/handle/1810/245253)
 * [TAUPE: Visualizing and analyzing eye-tracking data](https://www.researchgate.net/publication/259118316_TAUPE_Visualizing_and_analyzing_eye-tracking_data)
 * [Papers with code](https://paperswithcode.com/methods) e.g. [fast MSER algorithm](https://paperswithcode.com/paper/fast-mser)
 

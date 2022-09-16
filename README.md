@@ -53,7 +53,7 @@ The VPU is able to process several machine learning models serially or in parall
 
 The [OAK gaze estimation](https://github.com/luxonis/depthai-experiments/tree/master/gen2-gaze-estimation) example demonstrates the processing of face detection, landmark detection, head pose estimation and gaze estimation models.
 
-![Gaze estimation pipeline using several machine learning models](https://raw.githubusercontent.com/LCTyrell/Gaze_estimation/master/results/graph.jpeg)
+![Gaze estimation pipeline using several machine learning models](https://user-images.githubusercontent.com/4621810/190612357-8a18c950-94fe-48d5-9903-d92747ff5d6c.png)
 
 There is also a fork with [integrated relativ mouse control by gaze movement](https://github.com/deinhofer/depthai-experiments/tree/madinaustria/gaze-estimation-mouse-controller/gen2-gaze-estimation).
 The projects are based on the [OpenVINO-compatible version of LCTyrell](https://github.com/LCTyrell/Gaze_estimation).
